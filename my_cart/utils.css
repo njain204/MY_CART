@@ -1,0 +1,16 @@
+.text-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.my-2{
+    margin: 26px 0;
+    background-color: #2874f0;
+    color: white;
+}
+.my-1{
+    margin: 5px 0;
+}
+.text-center{
+    align-items: center;
+}
